@@ -5,7 +5,7 @@ export class Header extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-sm navbar-light bg-light">
-        <div class="container">
+        <div className="container">
           <button
             className="navbar-toggler"
             type="button"
